@@ -1,4 +1,5 @@
 {
+  "name": "こそ！",
   "welcome": "私たちのサイトへようこそ！",
   "description": "これは多言語対応のReactアプリです。",
   "changeLanguage": "言語を変更する"

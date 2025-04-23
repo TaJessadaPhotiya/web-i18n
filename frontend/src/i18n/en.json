@@ -1,4 +1,5 @@
 {
+  "name": "Name",
   "welcome": "Welcome to our site!",
   "description": "This is an internationalized React app.",
   "changeLanguage": "Change Language"
